@@ -1,0 +1,611 @@
+[
+    {
+        "question": [
+            "1) What is the maximum possible length of an identifier?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (d) None of these above",
+        "explanation": " The maximum possible length of an identifier is not defined in the python language. It can be of any number."
+    },
+    {
+        "question": [
+            "2) Who developed the Python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) Guido van Rossum",
+        "explanation": " Python language was developed by Guido van Rossum in the Netherlands."
+    },
+    {
+        "question": [
+            "3) In which year was the Python language developed?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (d) 1989",
+        "explanation": " Python language was developed by Guido van Rossum in 1989."
+    },
+    {
+        "question": [
+            "4) In which language is Python written?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) C",
+        "explanation": " Python is written in C programming language, and it is also called CPython."
+    },
+    {
+        "question": [
+            "5) Which one of the following is the correct extension of the Python file?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) .py",
+        "explanation": " \".py\" is the correct extension of the Python file."
+    },
+    {
+        "question": [
+            "6) In which year was the Python 3.0 version developed?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) 2008",
+        "explanation": " Python 3.0 version was developed on December 3, 2008."
+    },
+    {
+        "question": [
+            "7) What do we use to define a block of code in Python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (c) Indentation",
+        "explanation": " Python uses indentation to define blocks of code. Indentations are simply spaces or tabs used as an indicator that is part of the indent code child. As used in curly braces C, C++, and Java."
+    },
+    {
+        "question": [
+            "8) Which character is used in Python to make a single line comment?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (c) #",
+        "explanation": " \"#\" character is used in Python to make a single-line comment."
+    },
+    {
+        "question": [
+            "9) Which of the following statements is correct regarding the object-oriented programming concept in Python?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) Objects are real-world entities while classes are not real",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "10) Which of the following statements is correct in this python code?"
+        ],
+        "code_snippet": [
+            "class Name:\n\tdef __init__(javatpoint):\n\t\tjavatpoint = java\nname1=Name(\"ABC\")\nname2=name1\n"
+        ],
+        "sub_question": [],
+        "correct_option": " (b) id(name1) and id(name2) will have same value",
+        "explanation": " \"name1\" and \"name2\" refer to the same object, so id(name1) and id(name2) will have the same value."
+    },
+    {
+        "question": [
+            "11) What is the method inside the class in python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) Function",
+        "explanation": " Function is also known as the method."
+    },
+    {
+        "question": [
+            "12) Which of the following declarations is incorrect?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (d) None of these",
+        "explanation": " All declarations will execute successfully but at the expense of low readability."
+    },
+    {
+        "question": [
+            "13) Why does the name of local variables start with an underscore discouraged?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (c) It indicates a private variable of a class",
+        "explanation": " Since there is no concept of private variables in Python language, the major underscore is used to denote variables that cannot be accessed from outside the class."
+    },
+    {
+        "question": [
+            "14) Which of the following is not a keyword in Python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) val",
+        "explanation": " \"val\" is not a keyword in python language."
+    },
+    {
+        "question": [
+            "15) Which of the following statements is correct for variable names in Python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) Unlimited length",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "16) Which of the following declarations is incorrect in python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) x y z p = 5000 6000 7000 8000",
+        "explanation": " Spaces are not allowed in variable names."
+    },
+    {
+        "question": [
+            "17) Which of the following words cannot be a variable in python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (c) try",
+        "explanation": " \"try\" is a keyword."
+    },
+    {
+        "question": [
+            "18) Which of the following operators is the correct option for power(ab)?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) a**b",
+        "explanation": " The power operator in python is a**b, i.e., 2**3=8."
+    },
+    {
+        "question": [
+            "19) Which of the following precedence order is correct in Python?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) Parentheses, Exponential, Multiplication, Division, Addition, Subtraction",
+        "explanation": " PEMDAS (similar to BODMAS)."
+    },
+    {
+        "question": [
+            "20) Which one of the following has the same precedence level?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) Division and Multiplication",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "21) Which one of the following has the highest precedence in the expression?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (d) Parentheses",
+        "explanation": " PEMDAS (similar to BODMAS)."
+    },
+    {
+        "question": [
+            "22) Which of the following functions is a built-in function in python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (b) print()",
+        "explanation": " The print() function is a built-in function in python language that prints a value directly to the system."
+    },
+    {
+        "question": [
+            "23) Study the following function:"
+        ],
+        "code_snippet": [
+            "round(4.576)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this function?"
+        ],
+        "correct_option": " (d) 5",
+        "explanation": " The round function is a built-in function in the Python language that round-off the value (like 3.85 is 4), so the output of this function will be 5."
+    },
+    {
+        "question": [
+            "24) Which of the following is correctly evaluated for this function?"
+        ],
+        "code_snippet": [
+            "pow(x,y,z)\n"
+        ],
+        "sub_question": [],
+        "correct_option": " (c) (x**y) % z",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "25) Study the following function:"
+        ],
+        "code_snippet": [
+            "all([2,4,0,6])\n"
+        ],
+        "sub_question": [
+            "What will be the output of this function?"
+        ],
+        "correct_option": " (a) False",
+        "explanation": " If any element is zero, it returns a false value, and if all elements are non-zero, it returns a true value. Hence, the output of this \"all([2,4,0,6])\" function will be false."
+    },
+    {
+        "question": [
+            "26) Study the following program:"
+        ],
+        "code_snippet": [
+            "x = 1\nwhile True:\n    if x % 5 = = 0:\n        break\n    print(x) \n    x + = 1\n"
+        ],
+        "sub_question": [
+            "What will be the output of this code?"
+        ],
+        "correct_option": " (a) error",
+        "explanation": " Syntax error, there should not be a space between + and =."
+    },
+    {
+        "question": [
+            "27) Which one of the following syntaxes is the correct syntax to read from a simple text file stored in ''d:\\java.txt''?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) Infile = open(''c:\\\\scores.txt'', ''r'')",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "28) Study the following code:"
+        ],
+        "code_snippet": [
+            "x = ['XX', 'YY']\nfor i in a:\n    i.lower()\nprint(a)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this program?"
+        ],
+        "correct_option": " (a) ['XX', 'YY']",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "29) Study the following function:"
+        ],
+        "code_snippet": [
+            "import math\nabs(math.sqrt(36))\n"
+        ],
+        "sub_question": [
+            "What will be the output of this code?"
+        ],
+        "correct_option": " (d) 6.0",
+        "explanation": " This function prints the square of the value."
+    },
+    {
+        "question": [
+            "30) Study the following function:"
+        ],
+        "code_snippet": [
+            "any([5>8, 6>3, 3>1])\n"
+        ],
+        "sub_question": [
+            "What will be the output of this code?"
+        ],
+        "correct_option": " (b) True",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "31) Study the following statement:"
+        ],
+        "code_snippet": [
+            ">>>\"a\"+\"bc\"\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (b) abc",
+        "explanation": " In Python, the \"+\" operator acts as a concatenation operator between two strings."
+    },
+    {
+        "question": [
+            "32) Study the following code:"
+        ],
+        "code_snippet": [
+            ">>>\"javatpoint\"[5:]\n"
+        ],
+        "sub_question": [
+            "What will be the output of this code?"
+        ],
+        "correct_option": " (c) point",
+        "explanation": " Slice operation is performed on the string."
+    },
+    {
+        "question": [
+            "33) The output to execute string.ascii_letters can also be obtained from:?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (d) string.ascii_lowercase+string.ascii_upercase",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "34) Study the following statements:"
+        ],
+        "code_snippet": [
+            ">>> str1 = \"javat\"\n>>> str2 = \":\"\n>>> str3 = \"point\"\n>>> str1[-1:]\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (a) t",
+        "explanation": " The correct output of this program is \"t\" because -1 corresponds to the last index."
+    },
+    {
+        "question": [
+            "35) Study the following code:"
+        ],
+        "code_snippet": [
+            ">>> print (r\"\\njavat\\npoint\")\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (c) \\njavat\\npoint",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "36) Study the following statements:"
+        ],
+        "code_snippet": [
+            ">>> print(0xA + 0xB + 0xC)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (a) 33",
+        "explanation": " A, B and C are hexadecimal integers with values 10, 11 and 12 respectively, so the sum of A, B and C is 33."
+    },
+    {
+        "question": [
+            "37) Study the following program:"
+        ],
+        "code_snippet": [
+            "class book:\n    def __init__(a, b):\n        a.o1 = b\n \nclass child(book):\n    def __init__(a, b):\n        a.o2 = b\n \nobj = page(32)\nprint \"%d %d\" % (obj.o1, obj.o2)\n"
+        ],
+        "sub_question": [
+            "Which of the following is the correct output of this program?"
+        ],
+        "correct_option": " (d) Error is generated",
+        "explanation": " Error is generated because self.o1 was never created."
+    },
+    {
+        "question": [
+            "38) Study the following program:"
+        ],
+        "code_snippet": [
+            "class Std_Name:\t\n    def __init__(self, Std_firstName, Std_Phn, Std_lastName):\n        self.Std_firstName = Std_firstName\n        self. Std_Phn = Std_Phn\n        self. Std_lastName = Std_lastName\n \nStd_firstName = \"Wick\"\nname = Std_Name(Std_firstName, 'F', \"Bob\")\nStd_firstName = \"Ann\"\nname.lastName = \"Nick\"\nprint(name.Std_firstName, name.Std_lastName)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (d) Wick Nick",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "39) Study the following statements:"
+        ],
+        "code_snippet": [
+            ">>> print(ord('h') - ord('z'))\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (b) -18",
+        "explanation": " ASCII value of h is less than the z. Hence the output of this code is 104-122, which is equal to -18."
+    },
+    {
+        "question": [
+            "40) Study the following program:"
+        ],
+        "code_snippet": [
+            "x = ['xy', 'yz']\nfor i in a:\n    i.upper()\nprint(a)\n"
+        ],
+        "sub_question": [
+            "Which of the following is correct output of this program?"
+        ],
+        "correct_option": " (a) ['xy', 'yz']",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "41) Study the following program:"
+        ],
+        "code_snippet": [
+            "i = 1:\nwhile True:\n    if i%3 == 0:\n        break\n    print(i)\n"
+        ],
+        "sub_question": [
+            "Which of the following is the correct output of this program?"
+        ],
+        "correct_option": " (d) Invalid syntax",
+        "explanation": " Invalid syntax, because this declaration (i = 1:) is wrong."
+    },
+    {
+        "question": [
+            "42) Study the following program:"
+        ],
+        "code_snippet": [
+            "a = 1\nwhile True:\n    if a % 7 = = 0:\n        break\n    print(a)\n    a += 1\n"
+        ],
+        "sub_question": [
+            "Which of the following is correct output of this program?"
+        ],
+        "correct_option": " (b) 1 2 3 4 5 6",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "43) Study the following program:"
+        ],
+        "code_snippet": [
+            "i = 0\nwhile i < 5:\n    print(i)\n    i += 1\n    if i == 3:\n        break\nelse:\n    print(0)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (c) 0 1 2",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "44) Study the following program:"
+        ],
+        "code_snippet": [
+            "i = 0\nwhile i < 3:\n    print(i)\n    i += 1\nelse:\n    print(0)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (c) 0 1 2 0",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "45) Study the following program:"
+        ],
+        "code_snippet": [
+            "z = \"xyz\"\nj = \"j\"\nwhile j in z:\n    print(j, end=\" \")\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (b) No output",
+        "explanation": " \"j\" is not in \"xyz\"."
+    },
+    {
+        "question": [
+            "46) Study the following program:"
+        ],
+        "code_snippet": [
+            "x = 'pqrs'\nfor i in range(len(x)):\n    x[i].upper()\nprint (x)\n"
+        ],
+        "sub_question": [
+            "Which of the following is the correct output of this program?"
+        ],
+        "correct_option": " (b) pqrs",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "47) Study the following program:"
+        ],
+        "code_snippet": [
+            "d = {0: 'a', 1: 'b', 2: 'c'}\nfor i in d:\n    print(i)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (b) 0 1 2",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "48) Study the following program:"
+        ],
+        "code_snippet": [
+            "d = {0, 1, 2}\nfor x in d:\n    print(x)\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (b) 0 1 2",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "49) Which of the following option is not a core data type in the python language?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (c) Class",
+        "explanation": " Class is not a core data type because it is a user-defined data type."
+    },
+    {
+        "question": [
+            "50) What error will occur when you execute the following code?"
+        ],
+        "code_snippet": [
+            "MANGO = APPLE\n"
+        ],
+        "sub_question": [],
+        "correct_option": " (a) NamaError",
+        "explanation": " Mango is not defined hence the name error."
+    },
+    {
+        "question": [
+            "51) Study the following program:"
+        ],
+        "code_snippet": [
+            "def example(a):\n    a = a + '1'\n     a = a*1\n    return a\n>>>example(\"javatpoint\")\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (d) indentationError",
+        "explanation": " None"
+    },
+    {
+        "question": [
+            "52) Which of the following data types is shown below?"
+        ],
+        "code_snippet": [
+            "L = [2, 54, 'javatpoint', 5]\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (c) List",
+        "explanation": " Any value can be stored in the list data type."
+    },
+    {
+        "question": [
+            "53) What happens when '2' == 2 is executed?"
+        ],
+        "code_snippet": [],
+        "sub_question": [],
+        "correct_option": " (a) False",
+        "explanation": " It only evaluates to false."
+    },
+    {
+        "question": [
+            "54) Study the following program:"
+        ],
+        "code_snippet": [
+            "try:\n    if '2' != 2:\n        raise \"JavaTpoint\"\n    else:\n        print(\"JavaTpoint has not exist\")\nexcept \"JavaTpoint\":\n    print (\"JavaTpoint has exist\")\n"
+        ],
+        "sub_question": [
+            "What will be the output of this statement?"
+        ],
+        "correct_option": " (a) invalid code",
+        "explanation": " A new exception class must inherit from a BaseException, and there is no such inheritance here."
+    },
+    {
+        "question": [
+            "55) Study the following statement"
+        ],
+        "code_snippet": [
+            "z = {\"x\":0, \"y\":1}\n"
+        ],
+        "sub_question": [
+            "Which of the following is the correct statement?"
+        ],
+        "correct_option": " (d) All of the above",
+        "explanation": " All of the above statements is correct regarding Python code."
+    }
+]
